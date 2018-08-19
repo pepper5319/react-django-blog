@@ -1,0 +1,11 @@
+[
+    {
+        "model": "api.Post",
+        "pk": 1,
+        "fields": {
+            "title": "First Post",
+            "content": "This is my first post. It is really cool!",
+            "postTime": "2018-02-14 00:00:00"
+        }
+    }
+]
